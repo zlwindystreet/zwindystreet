@@ -10,10 +10,10 @@ server:
     connection-timeout: 5000ms # 连接超时
 
 config:
-  app-id:
-  app-secret:
-  template-id:
-  wechat-number:
-  birthday:
-  city-code:
+  app-id:wx58d0a0e01484c9b2
+  app-secret:599c768137a47b54725b24ec254bb51c
+  template-id:3SZ6Dk4GfjuhJHUcsZw6KfUQxav6xyTi3CvvdsOSmdc
+  wechat-number:oVEqa5mXsU-iUzSNjZZJJoxJPtxM
+  birthday:1998-08-01
+  city-code:101010300
   constellation-key:
