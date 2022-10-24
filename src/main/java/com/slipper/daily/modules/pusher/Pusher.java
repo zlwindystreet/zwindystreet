@@ -42,7 +42,7 @@ public class Pusher {
         }
     }
 
-    @Scheduled(cron = "0 0 8 * * ?")
+    @Scheduled(cron = "0 0 1 * * ?")
     public static void push() {
         String accessToken = getAccessToken();
         String url = "https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=" + accessToken;
